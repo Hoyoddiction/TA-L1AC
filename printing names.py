@@ -1,1 +1,2 @@
-''' Create a program that prints 'Hello' + name '''
+name= "Albert"
+print("hello"+ name)
